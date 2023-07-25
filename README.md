@@ -43,12 +43,7 @@
   - classList.add
   - for/for(of)
   - parentElement
-  - textContent
-<br>
-  
-## Deploy do app :dash:
-
-> 
+  - textContent 
 
 <br>
 
