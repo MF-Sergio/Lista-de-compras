@@ -47,6 +47,12 @@
 
 <br>
 
+## Deploy do app :dash:
+
+> https://lista-de-compras-nu.vercel.app
+
+<br>
+
 ## Linguagens utilizadas :books:
 
 - `HTML5`
